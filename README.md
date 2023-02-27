@@ -4,7 +4,7 @@ This repository contains the replication material for “Racial Bias in Fans and
 
 ## Manuscript
 
-All models are run on the Final_Merged.csv datastet.
+All models are run on the Final_Merged.csv dataset.
 To obtain all tables and figures in the paper:
 - run code.R
 
